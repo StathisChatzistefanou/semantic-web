@@ -1,0 +1,1016 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#"
+     xml:base="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-5="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#exei -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#exei">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Aksiomata"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#foraei -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#foraei">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Eksoplismos"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#sintirei -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#sintirei">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Texnikoi"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#sintonizei -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#sintonizei">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Omades"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Texnikoi"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#stegazei -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#stegazei">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Dioikitiko_Prosopiko"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Eksoplismos"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Omades"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#xeirizetai -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#xeirizetai">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#IDomadas -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#IDomadas">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Amesis_Epemvasis"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstikes"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#IDpirosvesti -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#IDpirosvesti">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#aksiomanumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#aksiomanumber">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#egkatastasiSize -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#egkatastasiSize">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#epitheto -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#epitheto">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Arxigos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#etoseksoplismou -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#etoseksoplismou">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpota"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#etosoximatos -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#etosoximatos">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#gender -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#gender">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Arxigos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ilikia -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ilikia">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Arxigos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#markaelastikwn -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#markaelastikwn">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethosjacket -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethosjacket">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethosmpotas -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethosmpotas">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpota"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethosomadas -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethosomadas">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Amesis_Epemvasis"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstikes"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethospanteloniou -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#megethospanteloniou">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mikosantlias -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mikosantlias">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#double"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#nomos -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#nomos">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#onoma -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#onoma">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Arxigos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#onomaoximatos -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#onomaoximatos">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#perioxi -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#perioxi">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Aksiomata -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Aksiomata"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Amesis_Epemvasis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Amesis_Epemvasis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Omades"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstikes"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Arxigos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Arxigos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Dioikitiko_Prosopiko"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstikes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstikes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Omades"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Dioikitiko_Prosopiko -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Dioikitiko_Prosopiko"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Eksoplismos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Eksoplismos"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Texnikoi"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Texnikoi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Omades -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Omades"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Oximata"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Aksiomata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Aksiomata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Dioikitiko_Prosopiko"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Texnikoi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Texnikoi"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Aksiomata"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Eksoplismos"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpota -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpota">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Eksoplismos"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Eksoplismos"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#arxigos -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#arxigos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Arxigos"/>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikas</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikos</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora"/>
+        <etosoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2006</etosoximatos>
+        <markaelastikwn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michelin</markaelastikwn>
+        <onomaoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercedes Actros</onomaoximatos>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora"/>
+        <etosoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</etosoximatos>
+        <markaelastikwn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Continental</markaelastikwn>
+        <onomaoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scania V8</onomaoximatos>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika"/>
+        <etosoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</etosoximatos>
+        <markaelastikwn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Continental</markaelastikwn>
+        <mikosantlias rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.0</mikosantlias>
+        <onomaoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volvo</onomaoximatos>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika"/>
+        <etosoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</etosoximatos>
+        <markaelastikwn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bridgestone</markaelastikwn>
+        <mikosantlias rdf:datatype="http://www.w3.org/2001/XMLSchema#double">17.0</mikosantlias>
+        <onomaoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volvo</onomaoximatos>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi"/>
+        <etosoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1990</etosoximatos>
+        <markaelastikwn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michelin</markaelastikwn>
+        <onomaoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volvo</onomaoximatos>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi"/>
+        <etosoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</etosoximatos>
+        <markaelastikwn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Continental</markaelastikwn>
+        <onomaoximatos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volvo</onomaoximatos>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ilektrologos1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ilektrologos1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaAthinas1"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaAthinas2"/>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Takoglou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Takis</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ilektrologos2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ilektrologos2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Hlektrologos"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis1"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis2"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis3"/>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mitroglou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anna</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket"/>
+        <megethosjacket rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</megethosjacket>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mixanikosoximatwn1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mixanikosoximatwn1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo1"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko1"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos1"/>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tsekouras</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mpampis</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mixanikosoximatwn2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mixanikosoximatwn2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Mixanikos_Oximatwn"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo2"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko2"/>
+        <sintirei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos2"/>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eustathiou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giannis</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpota"/>
+        <megethosmpotas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</megethosmpotas>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadaamesis1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadaamesis1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Amesis_Epemvasis"/>
+        <IDomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1314</IDomadas>
+        <megethosomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</megethosomadas>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadaamesis2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadaamesis2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Amesis_Epemvasis"/>
+        <IDomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1315</IDomadas>
+        <megethosomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</megethosomadas>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadadiasostiki1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadadiasostiki1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstikes"/>
+        <IDomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1225</IDomadas>
+        <megethosomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</megethosomadas>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadadiasostiki2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadadiasostiki2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstikes"/>
+        <IDomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1226</IDomadas>
+        <megethosomadas rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</megethosomadas>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni"/>
+        <megethospanteloniou rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</megethospanteloniou>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#piragos1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#piragos1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos"/>
+        <aksiomanumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</aksiomanumber>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pironomos1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pironomos1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos"/>
+        <aksiomanumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</aksiomanumber>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <exei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#piragos1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo1"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5052</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arseniou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arsenis</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <exei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pironomos1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko1"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5053</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dimitriou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Filotas</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <exei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ypostratigos1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo2"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5054</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Athanasiou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theodoros</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis4 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis4">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko2"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5055</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antonopoulou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis5 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis5">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <exei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#piragos1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos2"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5056</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oraiopoulou</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">female</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Savvina</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis6 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis6">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos1"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5057</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fotopoulos</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fotis</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis7">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos1"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5058</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oraiopoulos</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leuteris</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis8 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis8">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Pyrosbestes"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <foraei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <xeirizetai rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko1"/>
+        <IDpirosvesti rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5059</IDpirosvesti>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loutsas</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kostas</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#sintonistis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#sintonistis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Suntonistis"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadaamesis1"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadaamesis2"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadadiasostiki1"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#omadadiasostiki2"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis1"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis2"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis3"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis4"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis5"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis6"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis7"/>
+        <sintonizei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#pyrosvestis8"/>
+        <epitheto rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xrusobelonis</epitheto>
+        <gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">male</gender>
+        <ilikia rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</ilikia>
+        <onoma rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belisaris</onoma>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaAthinas1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaAthinas1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <egkatastasiSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2000</egkatastasiSize>
+        <nomos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Attikis</nomos>
+        <perioxi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marousi</perioxi>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaAthinas2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaAthinas2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <egkatastasiSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2500</egkatastasiSize>
+        <nomos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Attikis</nomos>
+        <perioxi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hlioupoli</perioxi>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo2"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <egkatastasiSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2200</egkatastasiSize>
+        <nomos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thessaloniki</nomos>
+        <perioxi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kalamaria</perioxi>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#braxionoforo2"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko2"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos2"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <egkatastasiSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3500</egkatastasiSize>
+        <nomos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thessaloniki</nomos>
+        <perioxi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sindos</perioxi>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#tmimaThessalonikis3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Egkatastaseis"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#diasostiko2"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#geranos2"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpotes1"/>
+        <stegazei rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni1"/>
+        <egkatastasiSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2400</egkatastasiSize>
+        <nomos rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thessaloniki</nomos>
+        <perioxi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Filyro</perioxi>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ypostratigos1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#ypostratigos1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos"/>
+        <aksiomanumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</aksiomanumber>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Braxionofora"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Diaswstika"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Geranoi"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puragos"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Puronomos"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#Ypostratigos"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#jacket"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#mpota"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/marios/ontologies/2019/11/untitled-ontology-5#panteloni"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
